@@ -78,7 +78,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-gh repo clone mymapss/carepulse_plus
+git clone https://github.com/mymapss/carepulse_plus.git
 cd healthcare
 ```
 
