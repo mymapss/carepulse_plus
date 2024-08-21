@@ -24,7 +24,7 @@
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
+## 🚨 Project
 
 This repository contains the code corresponding to HealthCare Management System.
 
@@ -78,7 +78,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
+gh repo clone mymapss/carepulse_plus
 cd healthcare
 ```
 
